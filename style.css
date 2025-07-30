@@ -1,0 +1,8 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.slot-btn.active {
+  background-color: #5a52b9 !important;
+  color: white !important;
+}
